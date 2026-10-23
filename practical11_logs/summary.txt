@@ -1,0 +1,7 @@
+--- TRANSACTION REPORT ---
+File: activity.log | Size: 62 bytes
+Total Files: 1
+Total Deposits: Rs. 2000
+Total Withdrawals: Rs. 200
+Net Change: Rs. 1800
+
